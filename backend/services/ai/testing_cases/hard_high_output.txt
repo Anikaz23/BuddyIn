@@ -1,0 +1,252 @@
+##0
+tools:
+- Java
+- Python
+- C++
+- C#
+- Go
+- Rust
+- TypeScript
+- AWS
+- SQL
+- NoSQL
+- GenAI
+- CI/CD
+- Computer vision
+hard_skills:
+- cloud-native architectures
+- microservices
+- distributed systems
+- fault-tolerant systems
+- scalable systems
+- cost-effective design
+- code review
+- technical documentation
+- design patterns
+- data structure implementation
+- algorithm development
+- object-oriented design
+- monitoring and troubleshooting
+- on-call operations
+- software components for robotics
+- material handling integration
+- AI-powered development tools
+- version control
+- SDLC understanding
+- computer vision
+- machine learning
+- motion planning
+- path planning
+- perception
+- autonomous navigation
+- manipulation
+- controls
+- optimization
+soft_skills:
+- collaboration
+- communication
+- ownership
+- learning
+- mentorship
+- problem solving
+- analytical
+experience:minimum one quarter/semester/trimester remaining
+degree:Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
+
+##1
+tools:
+- Java
+- Python
+- AWS
+hard_skills:
+- design patterns
+- distributed services
+- scalable reliable services
+- prototyping proofs of concept
+- production-grade features
+- full software development life cycle
+- code reviews
+- source control management
+- build processes
+- testing and operations
+soft_skills:
+- mentoring
+- collaboration
+- productization
+- innovation
+experience:3+ years
+degree:Bachelor's degree in computer science or equivalent
+
+##2
+tools:
+- Python
+- Java
+- JavaScript
+- C++
+hard_skills:
+- Natural Language Understanding
+- Human-Computer Interaction
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- Optimization algorithms
+- Quantum Information Science
+- Data Science
+- Software development
+- Research contributions
+soft_skills:
+- collaboration
+- communication
+- research
+experience:student (current enrollment)
+degree:Bachelor's or Master's degree in Computer Science or related field
+
+##3
+tools:
+- PLC
+- HMI
+- servo drives
+- AutoCAD
+- CATIA
+- SolidWorks
+- Python
+hard_skills:
+- develop electrical control panels
+- electrical schematics
+- NFPA79 compliance
+- NEC compliance
+- UL508A compliance
+- develop PLC code
+- structured documented maintainable code
+- PLC debugging
+- safety systems implementation
+- machine project management
+soft_skills:
+- teamwork
+- mentoring
+- professional growth
+- on-site availability
+experience:12 weeks full-time
+degree:Currently pursuing a degree in Mechanical Engineering, Mechatronic Engineering or related field
+
+##4
+tools:
+- Huggingface
+- Ray
+- PyTorch
+- TensorFlow
+- Kubernetes
+- Python
+- Scala
+hard_skills:
+- productionize ML models
+- distributed training with GPUs
+- manage large scale Kubernetes clusters
+- ML platform SDK development
+- ML platform tooling
+- ML infrastructure design
+- data processing for ML
+- modular code design
+- implement production ML systems
+- agile software processes
+soft_skills:
+- collaboration
+- independent work
+- learning agility
+- communication
+experience:3+ years
+
+##5
+tools:
+- JAMF Pro
+- JAMF API
+- Bash
+- Git
+- Apple Business Manager
+- Python
+- Swift
+hard_skills:
+- macOS administration
+- JAMF Pro administration
+- Bash scripting
+- application uninstall automation
+- device configuration automation
+- extension attributes
+- smart groups
+- policies
+- device hardening
+- compliance enforcement
+soft_skills:
+- communication
+- documentation
+bonus:
+- JAMF 300 certification
+- JAMF 400 certification
+experience:5+ years
+degree:
+
+##6
+tools:
+- Python
+- R
+- Perl
+- high-throughput data analysis
+- data visualization
+hard_skills:
+- multi-omics analysis
+- genomics
+- transcriptomics
+- proteomics
+- computational models
+- computational pipelines
+- algorithms for drug discovery
+- data quality and reproducibility
+- experimental design
+- regulatory compliance
+soft_skills:
+- communication
+- collaboration
+experience:Proven experience applying computational biology methods in a pharmaceutical or biotech setting
+degree:PhD or Master’s degree in Computational Biology, Bioinformatics, Genomics, or a related field
+
+##7
+tools:
+- Inductor
+- MLIR
+- LLVM
+- CUDA
+- Triton
+- OpenCL
+- PyTorch
+- TensorFlow
+- ONNX
+- MXNet
+- FPGA emulators
+- simulators
+- Intel SIMD
+- RISC-V
+- GPU
+- ASIC
+hard_skills:
+- neural network end-to-end performance optimization
+- compiler toolchain development
+- hardware-software co-design
+- compiler optimizations
+- AI compiler development
+- model optimization for production
+- performance bottleneck analysis
+- product lifecycle execution
+- simulators and FPGA emulation
+- hardware architecture collaboration
+soft_skills:
+- team management
+- managing managers
+- strategic planning
+- tactical execution
+- cross-functional collaboration
+- communication
+- recruiting
+- career development
+- metrics and process establishment
+experience:5+ years
+
