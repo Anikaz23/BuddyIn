@@ -1,5 +1,5 @@
 import uvicorn
-from fastapi import FastAPI
+from fastapi import FastAPI, status
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
@@ -44,20 +44,23 @@ memory_db = {"jobDesc": ""}
 @app.get("/analyze", response_model=RefinedJobDesc)
 def analyze_desc():
     if(not memory_db["jobDesc"]):
-        return "No job description found.", 401
+        return "No job description found.", status.HTTP_404_NOT_FOUND
     response = openai_model.parse_description(memory_db["jobDesc"])
     parsed_response = json.loads(response)
+    return RefinedJobDesc(**parsed_response), status.HTTP_200_OK
+
+
 
 
 @app.post("/analyze")
 def receive_desc(job_desc: JobDesc):
     memory_db["jobDesc"] = job_desc.description
-    return "Description received successfully."
+    return "Created", status.HTTP_201_CREATED
 
 @app.post("/upload")
 def upload_resume(resume: Resume):
     memory_db["resume"] = resume.content
-    return "Resume uploaded successfully."
+    return "Created", status.HTTP_201_CREATED
 
 
 # main program
